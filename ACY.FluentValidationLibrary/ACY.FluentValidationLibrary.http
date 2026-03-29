@@ -1,0 +1,6 @@
+@ACY.FluentValidationLibrary_HostAddress = http://localhost:5277
+
+GET {{ACY.FluentValidationLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
